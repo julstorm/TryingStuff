@@ -1,7 +1,6 @@
 streamlit==1.46.1
 pandas==2.3.0
-numpy<2.0
-scikit-learn
-plotly
-rdkit==2022.9.5
-altair
+numpy==1.26.4
+scikit-learn==1.7.0
+plotly==6.2.0
+rdkit==2024.09.5  # or another recent supported version
